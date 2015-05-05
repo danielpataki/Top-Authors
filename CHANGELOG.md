@@ -1,3 +1,6 @@
+### 1.0.5 (2015-05-05)
+- Corrected an typo in 1.0.4 which mixed up author ordering
+
 ### 1.0.4 (2015-05-05)
 - A user count issue coupled with role restrictions has been fixed
 
