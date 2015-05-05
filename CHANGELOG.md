@@ -1,3 +1,6 @@
+### 1.0.3 (2015-05-05)
+- Made sure post types work properly
+
 ### 1.0.2 (2015-05-05)
 - Added translations properly
 
