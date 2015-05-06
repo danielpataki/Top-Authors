@@ -1,3 +1,6 @@
+= 1.0.8 (2015-05-06) =
+- Added the ta/post_query filter for more control over the authors shown
+
 ### 1.0.7 (2015-05-06)
 - Corrected a typo in a variable name
 
